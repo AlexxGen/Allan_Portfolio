@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header{
+    padding: 30px;
+}
+
+h1{
+    letter-spacing: 10px !important;
+}
+
+.title{
+    font-family: "Arsenal SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 4px;
+}
+
+a{
+    color: lightblue;
+    text-decoration: none;
+    margin: 1rem;
+    letter-spacing: 3px;
+}
+
+/* Fix after images are added */
+.latest{
+    display:inline-block;
+    width: 10rem;
+    margin: 10rem;
+    margin-top: 1rem;
+}
